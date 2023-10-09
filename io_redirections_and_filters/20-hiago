@@ -1,2 +1,2 @@
 #!/bin/bash
-iecho "Chicago" | tr -d "cC"
+chmod +x 20-hiago
